@@ -1,2 +1,2 @@
-# xdbot.github.io
+# xdbot
 Discord Bot
